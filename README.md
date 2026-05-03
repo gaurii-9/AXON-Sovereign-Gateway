@@ -53,6 +53,11 @@ Execute the governance engine locally or on the provisioned node:
 ```bash
 python3 gateway.py
 ```
+📊 Proof of Work
+Deployment: Infrastructure provisioned successfully via Bicep.
+Architecture: Verified logical mapping of Network, Vault, and Compute nodes .
+Inventory: Active resource stack in Azure Central India .
+Security: Autonomous Node Isolation triggered upon PII breach detection .
 
 
 
